@@ -6,4 +6,6 @@ Sample solution for the [signle-page-cv](https://roadmap.sh/projects/single-page
 Clone the repository and run the following command:
 
 git clone https://github.com/Bohoussou-Enock/single-page-cv.git
+
+##
 cd single-page-cv
